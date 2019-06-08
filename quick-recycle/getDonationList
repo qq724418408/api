@@ -1,0 +1,18 @@
+{
+	"rtnCode": "10000",
+	"rtnMsg": "success",
+	"content": {
+		"pageCount": 1,
+		"list": [{
+				"avatarUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1194648131,1642981816&fm=27&gp=0.jpg",
+				"description": "黄先生在2019年6月7日捐助一件衣服",
+				"bonusPoints": 10
+			},
+			{
+				"avatarUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2599779665,4254172285&fm=27&gp=0.jpg",
+				"description": "李女士在2019年6月7日捐助一件衣服",
+				"bonusPoints": 10
+			}
+		]
+	}
+}
