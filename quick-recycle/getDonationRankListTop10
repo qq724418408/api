@@ -1,0 +1,21 @@
+{
+	"rtnCode": "10000",
+	"rtnMsg": "success",
+	"content": {
+		"myAllBonusPoints": 0,
+		"myRank": "99+",
+		"list": [{
+				"avatarUrl": "https://touxiang.jpg",
+				"rank": 1,
+				"name": "黄先生",
+				"allBonusPoints": 100
+			},
+			{
+				"avatarUrl": "https://touxiang.jpg",
+				"name": "李女士",
+				"rank": 2,
+				"allBonusPoints": 90
+			}
+		]
+	}
+}
