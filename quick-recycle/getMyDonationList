@@ -3,7 +3,7 @@
 	"rtnMsg": "success",
 	"content": {
 		"pageCount": 1,
-		"myAllBonusPoints": 0,
+		"myAllBonusPoints": 20,
 		"list": [{
 				"description": "2019年6月7日捐助一件衣服",
 				"bonusPoints": 10
