@@ -2,8 +2,8 @@
 	"rtnCode": "10000",
 	"rtnMsg": "success",
 	"content": {
-		"myAllBonusPoints": 0,
-		"myRank": "99+",
+		"myAllBonusPoints": 20,
+		"myRank": "3",
 		"list": [{
 				"avatarUrl": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2712573381,1522055203&fm=11&gp=0.jpg",
 				"rank": 1,
@@ -15,6 +15,12 @@
 				"name": "李女士",
 				"rank": 2,
 				"allBonusPoints": 90
+			},
+			{
+				"avatarUrl": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1575917982,830711952&fm=26&gp=0.jpg",
+				"name": "我",
+				"rank": 3,
+				"allBonusPoints": 20
 			}
 		]
 	}
