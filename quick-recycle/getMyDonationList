@@ -1,0 +1,18 @@
+{
+	"rtnCode": "10000",
+	"rtnMsg": "success",
+	"content": {
+		"pageCount": 1,
+		"list": [{
+				"avatarUrl": "https://touxiang.jpg",
+				"description": "黄先生在2019年6月7日捐助一件衣服",
+				"bonusPoints": 10
+			},
+			{
+				"avatarUrl": "https://touxiang.jpg",
+				"description": "李女士在2019年6月7日捐助一件衣服",
+				"bonusPoints": 10
+			}
+		]
+	}
+}
