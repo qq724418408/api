@@ -1,0 +1,13 @@
+{
+	"rtnCode": "10000",
+	"rtnMsg": "success",
+	"content": [{
+			"imgUrl": "https://qr.api.zzcf65.com/uploads/allimg/190608/1_1518159571.png",
+			"seq": "1"
+		},
+		{
+			"imgUrl": "https://qr.api.zzcf65.com/uploads/allimg/190608/1_1518156732.png",
+			"seq": "2"
+		}
+	]
+}
