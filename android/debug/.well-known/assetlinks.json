@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bochk.mortgage.android.hk",
+    "sha256_cert_fingerprints":
+    ["26:A4:11:CE:2E:6A:4E:CD:9F:4C:F3:46:3F:CC:B2:E2:02:70:8F:86:09:B7:2E:3E:7F:7D:DB:6E:CF:9F:43:79"]
+  }
+}]
