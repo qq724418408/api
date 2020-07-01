@@ -1,0 +1,18 @@
+{
+	"rtnCode": "10000",
+	"rtnMsg": "success",
+	"content": {
+		"pageCount": 1,
+		"list": [{
+				"avatarUrl": "https://touxiang.jpg",
+				"recyclerName": "黄师傅",
+				"distance": "666米"
+			},
+			{
+				"avatarUrl": "https://touxiang.jpg",
+				"recyclerName": "李师傅",
+				"distance": "20千米"
+			}
+		]
+	}
+}
