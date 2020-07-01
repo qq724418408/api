@@ -4,12 +4,12 @@
 	"content": {
 		"pageCount": 1,
 		"list": [{
-				"avatarUrl": "https://touxiang.jpg",
+				"avatarUrl": "/avatar/17620492058-1537085938947",
 				"recyclerName": "黄师傅",
 				"distance": "666米"
 			},
 			{
-				"avatarUrl": "https://touxiang.jpg",
+				"avatarUrl": "/avatar/17620492058-153708593894",
 				"recyclerName": "李师傅",
 				"distance": "20千米"
 			}
